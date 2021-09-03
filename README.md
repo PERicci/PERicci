@@ -23,9 +23,9 @@ Se gostou do que viu, entre em contato. Para ajudar, compartilhar e aprender sem
 * Node.js
 * PostgreSQL
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERicci&count_private=true&show_icons=true&theme=github_dark&border_color=303035)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERicci&count_private=true&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci?tab=repositories)
 
-![Oficina do Cérebro](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Oficina_do_Cerebro_FE&show_icons=true&theme=github_dark&border_color=303035)
-![Vimto - Survey Form](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=FCC-1-2-Survey_Form&show_icons=true&theme=github_dark&border_color=303035)
-![Core Dynamics - Product Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=FCC-1-3-Product_Landing_Page&show_icons=true&theme=github_dark&border_color=303035)
-![Noughts and Sabers](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Noughts_and_Sabers&show_icons=true&theme=github_dark&border_color=303035)
+[![Oficina do Cérebro](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Oficina_do_Cerebro_FE&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/Oficina_do_Cerebro_FE)
+[![Vimto - Survey Form](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=FCC-1-2-Survey_Form&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/FCC-1-2-Survey_Form)
+[![Core Dynamics - Product Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=FCC-1-3-Product_Landing_Page&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/FCC-1-3-Product_Landing_Page)
+[![Noughts and Sabers](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Noughts_and_Sabers&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/Noughts_and_Sabers)
