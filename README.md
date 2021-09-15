@@ -1,6 +1,6 @@
 
 
-### 👋 Olá! 🇧🇷 | ¡Hola! 🇪🇸 | Hi there 🇬🇧
+### 👋 Olá! 🇧🇷 | ¡Hola! 🇪🇸 | Hello! 🇬🇧
 
 ## Me chamo Pedro Eugenio Ricciardi e seja bem vindo ao meu perfil!
 
