@@ -9,7 +9,7 @@ Atualmente meu foco é em <img src="https://img.icons8.com/ultraviolet/20/000000
 
 Sendo um amante de ciências e tecnologia desde criança, sempre busquei fazer parte desse mundo. Formado em Física, lecionei esta e outras disciplinas relacionadas, tais como Matemática e Robótica.
 
-Após alguns anos na doscência, percebi que tinha grande potencial para contribuir na área de tecnologia e decidi migrar para ela. Certamente as habilidades e experiência que desenvolvi lidando com temas científicos e lecionando agregarão perfeitamente em minha nova carreira.
+Após alguns anos na docência, percebi que tinha grande potencial para contribuir na área de tecnologia e decidi migrar para ela. Certamente as habilidades e experiência que desenvolvi lidando com temas científicos e lecionando agregarão perfeitamente em minha nova carreira.
 
 Bem... sinta-se à vontade para ver meu repositório. Ainda está no início, mas já tem bastante carinho e dedicação envolvidos.\
 Se gostou do que viu, entre em contato. Para ajudar, compartilhar e aprender sempre estarei à disposição! 😀
