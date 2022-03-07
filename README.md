@@ -19,7 +19,7 @@ Se gostou do que viu, entre em contato. Para ajudar, compartilhar e aprender sem
 # Principais linguagens:
 * HTML
 * CSS
-* JavaScript (EcmaScript) e React
+* JavaScript e React
 * TypeScript
 * Node.js
 * PostgreSQL
