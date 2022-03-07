@@ -5,7 +5,7 @@
 ## Me chamo Pedro Eugenio Ricciardi e seja bem vindo ao meu perfil!
 
 Iniciei meus estudos em front-end development com <img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML5, <img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS e <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript no início de 2021.
-Atualmente meu foco é em <img src="https://img.icons8.com/ultraviolet/20/000000/react--v1.png"/> React e TypeScript além de, mais recentemente, ter iniciado meus estudos em back-end development com <img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL e <img src="https://img.icons8.com/color/32/000000/nodejs.png"/> Node.js.
+Atualmente meu foco é em <img src="https://img.icons8.com/ultraviolet/20/000000/react--v1.png"/> React e <img src="https://img.icons8.com/color/20/000000/typescript.png"/> TypeScript além de, mais recentemente, ter iniciado meus estudos em back-end development com <img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL e <img src="https://img.icons8.com/color/32/000000/nodejs.png"/> Node.js.
 
 Sendo um amante de ciências e tecnologia desde criança, sempre busquei fazer parte desse mundo. Formado em Física, lecionei esta e outras disciplinas relacionadas, tais como Matemática e Robótica.
 
