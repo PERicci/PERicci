@@ -14,7 +14,7 @@ Após alguns anos na docência, percebi que tinha grande potencial para contribu
 Bem... sinta-se à vontade para ver meu repositório. Ainda está no início, mas já tem bastante carinho e dedicação envolvidos.\
 Se gostou do que viu, entre em contato. Para ajudar, compartilhar e aprender sempre estarei à disposição! 😀
 
-<a href="https://www.linkedin.com/in/pedro-eugenio-ricciardi-a356a2219/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>  <a href="https://www.facebook.com/pedroeugenio.ricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/facebook-circled.png"/></a>  <a href="https://www.instagram.com/pedroeugenioricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/pedro-ricciardi/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>  <a href="https://www.facebook.com/pedroeugenio.ricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/facebook-circled.png"/></a>  <a href="https://www.instagram.com/pedroeugenioricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
 
 # Principais linguagens:
 * HTML
