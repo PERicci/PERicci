@@ -18,7 +18,7 @@ If you liked what you saw, get in touch. I am always available to help, share an
 # Main languages:
 * HTML
 * CSS
-* JavaScript React
+* JavaScript (React)
 * Next.js
 * TypeScript
 
