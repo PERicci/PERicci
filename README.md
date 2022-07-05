@@ -1,18 +1,17 @@
 
 
-### 👋 Olá! 🇧🇷 | ¡Hola! 🇪🇸 | Hello! 🇬🇧
+### 👋 Hello! 🇬🇧 | Olá! 🇧🇷 | ¡Hola! 🇪🇸
 
-## Me chamo Pedro Eugenio Ricciardi e seja bem vindo ao meu perfil!
+## I'm Pedro Eugenio Ricciardi. Welcome to my profile!
 
-Iniciei meus estudos em front-end development com <img src="https://img.icons8.com/color/20/000000/html-5--v1.png"/> HTML5, <img src="https://img.icons8.com/color/20/000000/css3.png"/> CSS e <img src="https://img.icons8.com/color/20/000000/javascript--v1.png"/> JavaScript no início de 2021.
-Atualmente meu foco é em <img src="https://img.icons8.com/ultraviolet/20/000000/react--v1.png"/> React e <img src="https://img.icons8.com/color/20/000000/typescript.png"/> TypeScript além de, mais recentemente, ter iniciado meus estudos em back-end development com <img src="https://img.icons8.com/color/20/000000/postgreesql.png"/> PostgreSQL e <img src="https://img.icons8.com/color/32/000000/nodejs.png"/> Node.js.
+As a tech and science enthusiast, I have always loved knowing how the universe works and how I can help to improve people's lives in this universe. This passion led me to choose a career as a science teacher (physics, mathematics and robotics).
 
-Sendo um amante de ciências e tecnologia desde criança, sempre busquei fazer parte desse mundo. Formado em Física, lecionei esta e outras disciplinas relacionadas, tais como Matemática e Robótica.
+After a few years of robotics teaching, I realised that I had great potential to contribute to the tech industry. Confident that the skills and expertise I developed add quite well to the tech career, I decided to migrate to it.
 
-Após alguns anos na docência, percebi que tinha grande potencial para contribuir na área de tecnologia e decidi migrar para ela. Certamente as habilidades e experiência que desenvolvi lidando com temas científicos e lecionando agregarão perfeitamente em minha nova carreira.
+I started my studies in front-end web development with the famous triad: HTML, CSS and JavaScript. Nowadays, I am fully engaged in React, keeping Next.js and Typescript on my radar.
 
-Bem... sinta-se à vontade para ver meu repositório. Ainda está no início, mas já tem bastante carinho e dedicação envolvidos.\
-Se gostou do que viu, entre em contato. Para ajudar, compartilhar e aprender sempre estarei à disposição! 😀
+Well, feel free to check out my repository. It's still in the beginning, but there's already a lot of affection and dedication involved.
+If you liked what you saw, get in touch. I am always available to help, share and learn.😀
 
 <a href="https://www.linkedin.com/in/pedro-ricciardi/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>  <a href="https://www.facebook.com/pedroeugenio.ricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/facebook-circled.png"/></a>  <a href="https://www.instagram.com/pedroeugenioricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
 
