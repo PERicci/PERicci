@@ -4,7 +4,7 @@
 
 ## I'm Pedro Eugenio Ricciardi. Welcome to my profile!
 
-As a tech and science enthusiast, I have always loved knowing how the universe works and how I can help to improve people's lives in this universe. This passion led me to choose a career as a science teacher (physics, mathematics and robotics).
+As a tech and science enthusiast, I have always loved knowing how the universe works and how I can help to improve people's lives. This passion led me to choose a career as a science teacher (physics, mathematics and robotics).
 
 After a few years of robotics teaching, I realised that I had great potential to contribute to the tech industry. Confident that the skills and expertise I developed add quite well to the tech career, I decided to migrate to it.
 
