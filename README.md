@@ -15,13 +15,12 @@ If you liked what you saw, get in touch. I am always available to help, share an
 
 <a href="https://www.linkedin.com/in/pedro-ricciardi/" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin.png"/></a>  <a href="https://www.facebook.com/pedroeugenio.ricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/facebook-circled.png"/></a>  <a href="https://www.instagram.com/pedroeugenioricciardi" target="_blank"><img src="https://img.icons8.com/fluency/40/000000/instagram-new.png"/></a>
 
-# Principais linguagens:
+# Main languages:
 * HTML
 * CSS
-* JavaScript e React
+* JavaScript React
+* Next.js
 * TypeScript
-* Node.js
-* PostgreSQL
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERicci&count_private=true&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci?tab=repositories)
 
