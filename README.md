@@ -19,8 +19,6 @@ If you liked what you saw, get in touch. I am always available to help, share an
 * HTML
 * CSS
 * JavaScript (React)
-* Next.js
-* TypeScript
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERicci&count_private=true&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci?tab=repositories)
 
