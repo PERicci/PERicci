@@ -20,9 +20,9 @@ If you liked what you saw, get in touch. I am always available to help, share an
 * CSS
 * JavaScript (React)
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERicci&count_private=true&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci?tab=repositories)
+<!-- [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PERicci&count_private=true&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci?tab=repositories) -->
 
-[![Oficina do Cérebro](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Oficina_do_Cerebro_FE&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/Oficina_do_Cerebro_FE)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Task-Manager&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/Task-Manager)
 [![Vimto - Survey Form](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=FCC-1-2-Survey_Form&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/FCC-1-2-Survey_Form)
 [![Core Dynamics - Product Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=FCC-1-3-Product_Landing_Page&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/FCC-1-3-Product_Landing_Page)
 [![Noughts and Sabers](https://github-readme-stats.vercel.app/api/pin/?username=PERicci&repo=Noughts_and_Sabers&show_icons=true&theme=github_dark&border_color=303035)](https://github.com/PERicci/Noughts_and_Sabers)
