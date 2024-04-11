@@ -8,7 +8,7 @@ As a tech and science enthusiast, I have always loved knowing how the universe w
 
 After a few years of robotics teaching, I realised that I had great potential to contribute to the tech industry. Confident that the skills and expertise I developed add quite well to the tech career, I decided to migrate to it.
 
-I started my studies in front-end web development with the famous triad: HTML, CSS and JavaScript. Nowadays, I am fully engaged in React, keeping Next.js and Typescript on my radar.
+I started my studies in front-end web development with the famous triad: HTML, CSS and JavaScript. Nowadays, I am fully engaged in React, and Node.js, keeping Next.js and Typescript on my radar.
 
 Well, feel free to check out my repository. It's still in the beginning, but there's already a lot of affection and dedication involved.
 If you liked what you saw, get in touch. I am always available to help, share and learn.😀
